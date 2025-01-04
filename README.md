@@ -1,6 +1,4 @@
-Here’s a simple beginner-friendly documentation for your **Note-Taking App** project. The documentation is written with clarity and simplicity to help new developers understand how the project works.
 
----
 
 # **Note-Taking App Documentation**
 
